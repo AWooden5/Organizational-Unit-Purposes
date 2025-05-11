@@ -1,1 +1,2 @@
 # Organizational-Unit-Purposes
+An organizational unit (OU) in computer technology, particularly within systems like Active Directory, is a logical container used to group users, computers, and other resources within a network. Its primary purpose is to simplify administration by allowing centralized management, policy application, and delegation of control. OUs help structure resources according to business needs—such as departments or roles—enabling more efficient access control, security policy enforcement, and streamlined IT operations.
